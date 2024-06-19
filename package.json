@@ -1,0 +1,24 @@
+{
+  "name": "random-nmv-msg",
+  "version": "1.0.0",
+  "description": "Random NMV Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahum-manuel-martin/random-nmv-msg.git"
+  },
+  "keywords": [],
+  "author": "Nahúm Manuel Martín <nahum.manuel.martin@upc.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nahum-manuel-martin/random-nmv-msg/issues"
+  },
+  "homepage": "https://github.com/nahum-manuel-martin/random-nmv-msg#readme",
+  "bin": {
+    "random-nmv-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
